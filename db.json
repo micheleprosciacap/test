@@ -1,0 +1,53 @@
+[
+    {
+        "label": "Seduta del",
+        "date": "2019-02-05",
+        "video": {
+            "date": "2019-02-05",
+            "details": [
+                {
+                    "link": "http://www.mediatecaconsiglio.lombardia.it/mediafiles/view/5934/2",
+                    "description": " Consiglio 01",
+                    "alternateText": " Consiglio 01",
+                    "label": "Parte 1"
+                },
+                {
+                    "link": "http://www.mediatecaconsiglio.lombardia.it/mediafiles/view/5935/2",
+                    "description": " Consiglio 02",
+                    "alternateText": " Consiglio 02",
+                    "label": "Parte 2"
+                }
+            ]
+        },
+        "audio": {
+            "date": "2019-02-05",
+            "links": [
+                {
+                    "link": "http://www.mediatecaconsiglio.lombardia.it/downloads/index_consiglio/20190205_Consiglio_01.mp3",
+                    "description": " Consiglio 01",
+                    "alternateText": " Consiglio 01",
+                    "label": "Parte 1",
+                    "size": 36588984,
+                    "mimeType": "audio/mpeg"
+                },
+                {
+                    "link": "http://www.mediatecaconsiglio.lombardia.it/downloads/index_consiglio/20190205_Consiglio_02.mp3",
+                    "description": " Consiglio 02",
+                    "alternateText": " Consiglio 02",
+                    "label": "Parte 2",
+                    "size": 94496188,
+                    "mimeType": "audio/mpeg"
+                }
+            ]
+        },
+        "topics": {
+            "date": "2019-02-05",
+            "link": "http://www.mediatecaconsiglio.lombardia.it/files/pdf/ARG_20190205.pdf",
+            "description": "Argomenti Trattati nella Seduta del05-02-2019",
+            "alternateText": "Argomenti Trattati nella Seduta del05-02-2019",
+            "label": "Scarica PDF",
+            "mimeType": "application/pdf",
+            "size": 42374
+        }
+    }
+]
